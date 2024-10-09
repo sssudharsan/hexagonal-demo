@@ -1,0 +1,8 @@
+gs\hexagonaldemo\springhexagonaldemo\ports\GetUserService.class
+gs\hexagonaldemo\springhexagonaldemo\serviceadapters\AddUserServiceAdapter.class
+gs\hexagonaldemo\springhexagonaldemo\models\User$UserBuilder.class
+gs\hexagonaldemo\springhexagonaldemo\models\User.class
+gs\hexagonaldemo\springhexagonaldemo\ports\UserRepository.class
+gs\hexagonaldemo\springhexagonaldemo\ports\AddUserService.class
+gs\hexagonaldemo\springhexagonaldemo\serviceadapters\GetUserServiceAdapter.class
+gs\hexagonaldemo\springhexagonaldemo\ports\NameVerifierService.class

@@ -1,0 +1,7 @@
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\ports\NameVerifierService.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\models\User.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\serviceadapters\AddUserServiceAdapter.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\ports\GetUserService.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\ports\UserRepository.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\ports\AddUserService.java
+C:\Users\sssetti\Downloads\spring-hexagonal-example-master\domain\src\main\java\gs\hexagonaldemo\springhexagonaldemo\serviceadapters\GetUserServiceAdapter.java
